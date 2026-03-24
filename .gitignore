@@ -1,0 +1,17 @@
+# Системные файлы
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Редакторы и IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+*.bak
+
+# Логи и временные файлы
+*.log
+*.tmp
+*.temp
